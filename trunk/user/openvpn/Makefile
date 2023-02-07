@@ -30,6 +30,7 @@ configure:
 		--disable-iproute2 \
 		--disable-management \
 		--disable-socks \
+		--disable-lz4 \
 		--enable-small \
 		--enable-multi \
 		--enable-server \
